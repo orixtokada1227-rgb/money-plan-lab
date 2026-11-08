@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://orixtokada1227-rgb.github.io/money-plan-lab/sitemap.xml
